@@ -4,34 +4,34 @@
 // var to set up all the questions in the test bank
 var questions = [
 	{
-		question : "What color is the sky?",
-		answers  : [" blue", " red", " yellow", " green"],
-		correct  : " blue"
+		question : "Who is the creator of Star Wars?",
+		answers  : [" George Lucas", " Calvin Klein", " George Martin", " Barack Obama"],
+		correct  : " George Lucas"
 	},
 	{
-		question : "Where is San Francisco located in?",
-		answers  : [" Texas", " California", " Mexico", " Washington"],
+		question : "Who is a character in Star Wars?",
+		answers  : [" Alicia Keys", " Harvey Dent", " Luke Skywalker", " Katniss Everdeen"],
 		correct  : " California"
 	},
 	{
-		question : "Tacos are great?",
-		answers  : [" yes", " no"],
-		correct  : " yes"
+		question : "Who is a Princess in Star Wars?",
+		answers  : [" Anakin Skywalker", " Leia Skywalker", " Padame Skywalker", "Chewbecca" ],
+		correct  : " Leia Skywalker"
 	},
 	{
-		question : "Who is on the $20 dollar bill?",
-		answers  : [" Abe Lincoln", " George Washington", " Benjamin Franklin", " Andrew Jackson"],
-		correct  : " Andrew Jackson"
+		question : "Who died in Episode I?",
+		answers  : [" Han Solo", " Anakin Skywalker", " Qui-gon Jinn", " Andrew Jackson"],
+		correct  : " Qui-gon Jinn"
 	},
 	{
-		question : "What holiday is in December?",
-		answers  : [" Christmas", " New Years Day", " Thanksgiving", " Halloween"],
-		correct  : " Christmas"
+		question : "Who is the main villan in Episode IV to XI?",
+		answers  : [" Darth Vader", " Stormtroopers", " Leia Skywalker", " Jabba the Hut"],
+		correct  : " Darth Vader"
 	},
 	{
-		question : "How many planets are there in our solar system?",
-		answers  : [" 6", " 8", " 9", " 2"],
-		correct  : " 8"
+		question : "What are the weapons called in Star Wars?",
+		answers  : [" Lightswords", " Plasers", " Lightsabers", " Glowsticks"],
+		correct  : " Lightsabers"
 	}
 ];
 
